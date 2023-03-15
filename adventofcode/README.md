@@ -1,4 +1,0 @@
-# adventofcode
-🎄🎄🎄
-
-https://adventofcode.com/
